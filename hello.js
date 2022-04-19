@@ -13,5 +13,7 @@ console.info('The division of A and B is:'+ (a / b))
 // This is trial for the latest update 
 let name = 'Ishaan'
 console.log('Hello '+ name + ' !!!')
+console.log('Hello '+ 'Binoy' + ' !!!')
+
 
 
